@@ -20,8 +20,6 @@
 
 <a href="Customer">•Customer</a>  
 
-<ul>sathish vemala</ul>
-
 🖋 About Project:
 
 👉 An online banking system built using Python. This system allows the customer and banking staff/manager to manage all transactions easily.
