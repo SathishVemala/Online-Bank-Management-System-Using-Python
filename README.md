@@ -125,6 +125,9 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-login)▶ Customer Login
 
+![3 0_Customer Login](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/32964fc1-d522-49ae-9567-948fb7896478)
+
+
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-menu)▶ Customer Menu
 
