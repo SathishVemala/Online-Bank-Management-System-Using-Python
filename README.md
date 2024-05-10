@@ -96,12 +96,11 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python#-admin-)👨‍💼 Admin:
 
-▶ [Admin Login](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/blob/main/1.0_Main%20Menu.png)
-
+▶ [Admin Login]
+![1 0_Main Menu](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/79269366-8ab7-4ba6-8245-28761e3872ea)
 
 ▶ Admin Menu
 
-![1 0_Main Menu](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/79269366-8ab7-4ba6-8245-28761e3872ea)
 
 
 ▶ Admin Create New
