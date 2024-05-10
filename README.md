@@ -17,7 +17,7 @@
 
 ◦ [Admin](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-admin-)  
 
-◦ [Customer]()  
+◦ [Customer](https://github.com/SathishVemala/online-banking-system-with-python#%EF%B8%8F-customer-)  
 
 🖋 About Project:
 
