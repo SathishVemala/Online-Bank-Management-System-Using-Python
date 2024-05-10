@@ -8,7 +8,7 @@
 
 •[About Project](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-about-project)
 
-<a href="System Design">•System Design</a>
+[•System Design](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-system-design)
 
 <a href="Screenshot">•Screenshot</a>  
 
