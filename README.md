@@ -9,7 +9,7 @@
 
 <a href="About Project">•About Project</a>
 
-• <b>System Design 
+<a href="About Project">•System Design</a>
 
 • Screenshot  
 
