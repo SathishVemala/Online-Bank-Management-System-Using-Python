@@ -8,7 +8,7 @@
 📃 Table of Contents:
 
 
-<a href="About Project">•About Project</a>
+•About Project[Click_Here](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python#:~:text=%E2%80%A2Customer-,%F0%9F%96%8B%20About%20Project%3A,-%F0%9F%91%89%20An%20online%20banking)
 
 <a href="System Design">•System Design</a>
 
