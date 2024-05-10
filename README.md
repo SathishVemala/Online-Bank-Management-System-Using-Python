@@ -7,7 +7,7 @@
 
 📃 Table of Contents:
 
-• About Project [Click Here](About Project)
+• About Project 
 
 • System Design 
 
