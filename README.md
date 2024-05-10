@@ -111,7 +111,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 ![2 2_Admin Create New](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/ac636c80-ed20-453a-a184-8cc0a18b4f56)
 
 
-▶ Admin Search Customer
+[🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-admin-search-customer)▶ Admin Search Customer
 
 ![2 3_Admin Search Customer](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/7f1b7827-8813-49ac-907b-12748aa5354b)
 
