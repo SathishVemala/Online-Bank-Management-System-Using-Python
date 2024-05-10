@@ -13,7 +13,7 @@
 
 • [Screenshot](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-screenshot) 
 
-    ◦ [Main Menu](https://github.com/SathishVemala/online-banking-system-with-python#-main-menu-)  
+   ◦ [Main Menu](https://github.com/SathishVemala/online-banking-system-with-python#-main-menu-)  
 
 <a href="Admin">•Admin</a>  
 
