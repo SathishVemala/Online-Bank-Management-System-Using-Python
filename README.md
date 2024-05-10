@@ -137,6 +137,9 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-deposit)▶ Customer Deposit
 
+![3 2_Customer Deposit](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/64338d19-709d-4460-b810-e4cb20eb031a)
+
+
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-withdrawal)▶ Customer Withdrawal
 
