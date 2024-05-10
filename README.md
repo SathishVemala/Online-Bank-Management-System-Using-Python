@@ -7,17 +7,18 @@
 
 📃 Table of Contents:
 
-<About Project"•About Project</a>
 
-<a href="About Project">•System Design</a>
+<a href="About Project">• About Project</a>
 
-<a href="About Project">•Screenshot</a>  
+<a href="System Design">• System Design</a>
 
-<a href="About Project">•Main Menu</a>  
+<a href="Screenshot">• Screenshot</a>  
 
-<a href="About Project">•Admin</a>  
+<a href="Main Menu">• Main Menu</a>  
 
-<a href="About Project">•Customer</a>  
+<a href="Admin">• Admin</a>  
+
+<a href="Customer">• Customer</a>  
 
 🖋 About Project:
 
