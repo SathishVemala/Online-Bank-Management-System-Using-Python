@@ -45,8 +45,6 @@
 Note: Every user needs to sign in to access the system. All the data must be stored in text (.txt) files.
 
 
-
-
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python#-system-design)💻 System Design:
 
 👉 In this online banking system, there are 11 different menus, namely:
@@ -84,8 +82,6 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 👉 There is also a simple security verification in this system where the customer/admin is asked to enter a password and user id.
 
 👉 Suppose the user id/password is not the same as the database (txt file), the system will ask the user to enter the user id/password again until it is correct.
-
-
 
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python#-screenshot)📷 Screenshot:
@@ -128,11 +124,9 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 ![3 0_Customer Login](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/32964fc1-d522-49ae-9567-948fb7896478)
 
 
-
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-menu)▶ Customer Menu
 
 ![3 1_Customer Menu](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/d99665ef-0f49-48ad-9798-ee773fd40ae9)
-
 
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-deposit)▶ Customer Deposit
@@ -140,15 +134,14 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 ![3 2_Customer Deposit](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/64338d19-709d-4460-b810-e4cb20eb031a)
 
 
-
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-withdrawal)▶ Customer Withdrawal
 
 ![3 3_Customer Withdrawal](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/3ae8faad-c51c-4326-acce-361a86db7114)
 
 
-
-
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-customer-view)▶ Customer View
+
+![3 4_Customer View](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/2d94b74c-1002-4751-bd61-7eb1a5eb3e1a)
 
 
 
