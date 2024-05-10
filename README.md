@@ -17,7 +17,7 @@
 
 ◦ [Admin]()  
 
-<a href="Customer">•Customer</a>  
+◦ [Customer]()  
 
 🖋 About Project:
 
