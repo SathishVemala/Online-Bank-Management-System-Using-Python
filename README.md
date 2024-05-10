@@ -19,7 +19,7 @@
 
 ◦ [Customer](https://github.com/SathishVemala/online-banking-system-with-python#%EF%B8%8F-customer-)  
 
-🖋 About Project:
+[🔗](https://github.com/SathishVemala/online-banking-system-with-python#-about-project)🖋 About Project:
 
 👉 An online banking system built using Python. This system allows the customer and banking staff/manager to manage all transactions easily.
 
