@@ -6,9 +6,9 @@
 📃 Table of Contents:
 
 
-•[About Project](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-about-project)
+• [About Project](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-about-project)
 
-[•System Design](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-system-design)
+• [System Design](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-system-design)
 
 <a href="Screenshot">•Screenshot</a>  
 
