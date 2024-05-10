@@ -123,22 +123,20 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 [🔗](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#%EF%B8%8F-customer-)🙎‍♂️ Customer:
 
-▶ Customer Login
+[🔗]()▶ Customer Login
 
 
-▶ Customer Menu
+[🔗]()▶ Customer Menu
 
 
-▶ Customer Deposit
+[🔗]()▶ Customer Deposit
 
 
-▶ Customer Withdrawal
+[🔗]()▶ Customer Withdrawal
 
 
-▶ Customer View
+[🔗]()▶ Customer View
 
 
 
 
-
-🙌 Support me!
