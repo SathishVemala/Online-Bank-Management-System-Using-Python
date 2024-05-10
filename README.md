@@ -8,7 +8,7 @@
 📃 Table of Contents:
 
 
-•[About Project](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python#:~:text=%E2%80%A2Customer-,%F0%9F%96%8B%20About%20Project%3A,-%F0%9F%91%89%20An%20online%20banking)
+•[About Project](https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-about-project)
 
 <a href="System Design">•System Design</a>
 
