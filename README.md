@@ -8,24 +8,24 @@ using Python 🐍
 📃 Table of Contents:
 
 • About Project
-
-• System Design  
+• System Design 
 • Screenshot  
 • Main Menu  
 • Admin  
 • Customer  
 
 🖋 About Project:
+
 👉 An online banking system built using Python. This system allows the customer and banking staff/manager to manage all transactions easily.
 👉 The primary purpose of this system is to simulate customer’s transaction management for Bank to maintain the detail of each transaction/record.
 
 👉 There are 2 users for this system:
 
-Admin
+1. Admin
 Can create new Customer’s profile and provide them login id and password to access the system.
 Can view and search customer profile accordingly.
 Can view all transactions of specific customer.
-Customer
+2. Customer
 Can login to the system.
 Can do the transactions like Deposit, Withdrawal.
 Can view their own transactions.
