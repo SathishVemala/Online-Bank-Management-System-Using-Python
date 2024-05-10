@@ -10,7 +10,7 @@
 
 • [System Design](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-system-design)
 
-<a href="Screenshot">•Screenshot</a>  
+• [Screenshot](https://github.com/SathishVemala/online-banking-system-with-python/blob/main/README.md#-screenshot) 
 
 <a href="Main Menu">•Main Menu</a>  
 
