@@ -27,13 +27,14 @@ using Python 🐍
 👉 There are 2 users for this system:
 
 1. Admin
-Can create new Customer’s profile and provide them login id and password to access the system.
-Can view and search customer profile accordingly.
-Can view all transactions of specific customer.
+• Can create new Customer’s profile and provide them login id and password to access the system.
+• Can view and search customer profile accordingly.
+• Can view all transactions of specific customer.
 2. Customer
-Can login to the system.
-Can do the transactions like Deposit, Withdrawal.
-Can view their own transactions.
+• Can login to the system.
+• Can do the transactions like Deposit, Withdrawal.
+• Can view their own transactions.
+
 Note: Every user needs to sign in to access the system. All the data must be stored in text (.txt) files.
 
 
