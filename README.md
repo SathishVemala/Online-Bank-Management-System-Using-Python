@@ -11,13 +11,13 @@
 
 <a href="About Project">•System Design</a>
 
-• Screenshot  
+<a href="About Project">•Screenshot</a>  
 
-• Main Menu  
+<a href="About Project">•Main Menu</a>  
 
-• Admin  
+<a href="About Project">•Admin</a>  
 
-• Customer  
+<a href="About Project">•Customer</a>  
 
 🖋 About Project:
 
