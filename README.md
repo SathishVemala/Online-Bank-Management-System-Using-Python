@@ -34,7 +34,7 @@ using Python 🐍
 
 • Can view all transactions of specific customer.
 
-3. Customer
+2. Customer
    
 • Can login to the system.
 
@@ -48,6 +48,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 
 💻 System Design:
+
 👉 In this online banking system, there are 11 different menus, namely:
 
 Main Menu
