@@ -1,5 +1,5 @@
 
-[https://github.com/SathishVemala/online-banking-system-with-python?tab=readme-ov-file#-online-banking-system--]🏦 Online Banking System 🏦
+🏦 Online Banking System 🏦
 
     using Python 🐍
 
