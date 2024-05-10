@@ -7,7 +7,7 @@
 
 📃 Table of Contents:
 
-<u>•About Project</u>
+<a href="About Project"•About Project</a>
 
 <a href="About Project">•System Design</a>
 
