@@ -79,7 +79,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 • Customer View
 
-👉 All the psudeocode for each menu are available here
+👉 All the psudeocode for each menu are available here[Click_Here]
 
 👉 All the flowchart for each menu are available here
 
