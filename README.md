@@ -104,6 +104,9 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 ▶ Admin Menu
 
+![2 1_Admin Menu](https://github.com/SathishVemala/Online-Bank-Management-System-Using-Python/assets/92301059/3d12da44-0bfd-464d-b19b-dcad533d9ce0)
+
+
 
 
 ▶ Admin Create New
