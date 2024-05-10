@@ -8,10 +8,15 @@ using Python 🐍
 📃 Table of Contents:
 
 • About Project
+
 • System Design 
+
 • Screenshot  
+
 • Main Menu  
+
 • Admin  
+
 • Customer  
 
 🖋 About Project:
