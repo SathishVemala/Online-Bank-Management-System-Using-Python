@@ -80,7 +80,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 👉 All the psudeocode for each menu are available [here](https://github.com/caesarmario/simple-online-banking-system/tree/main/Pseudocode)
 
-👉 All the flowchart for each menu are available here
+👉 All the flowchart for each menu are available [here](https://github.com/caesarmario/simple-online-banking-system/tree/main/Flowchart)
 
 👉 There is also a simple security verification in this system where the customer/admin is asked to enter a password and user id.
 
