@@ -7,12 +7,12 @@ using Python 🐍
 
 📃 Table of Contents:
 
-⚪ About Project
-⚪ System Design  
-⚪ Screenshot  
-⚪ Main Menu  
-⚪ Admin  
-⚪ Customer  
+• About Project
+• System Design  
+• Screenshot  
+• Main Menu  
+• Admin  
+• Customer  
 
 🖋 About Project:
 👉 An online banking system built using Python. This system allows the customer and banking staff/manager to manage all transactions easily.
