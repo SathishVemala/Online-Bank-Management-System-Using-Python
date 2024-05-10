@@ -89,7 +89,7 @@ Note: Every user needs to sign in to access the system. All the data must be sto
 
 
 
-📷 Screenshot:
+[🔗](https://github.com/SathishVemala/online-banking-system-with-python#-screenshot)📷 Screenshot:
 
 🏠 Main Menu:
 
